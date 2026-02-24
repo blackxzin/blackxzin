@@ -5,13 +5,13 @@
 ```bash
 > Booting Developer Profile...
 > User: Lucas Gabriel
-> Role: Back-End Developer (In Progress)
+> Role: (In Progress)
 > Mode: Cyberpunk Neon Activated
 ```
 
 **`Futuro Desenvolvedor Back-End`**
 
-Me chamo **Lucas Gabriel**, tenho 18 anos e sou futuro Desenvolvedor Back-End.  
+Me chamo **Lucas Gabriel**, tenho 19 anos e estudo para ser um Um desenvolvedor full stack   
 Atualmente curso **Análise e Desenvolvimento de Sistemas** na Unicesumar.  
 
 🧠 Movido por lógica  
@@ -83,4 +83,4 @@ while(true){
 }
 ```
 
-# 🟣 STATUS: BACK-END LEGEND IN PROGRESS
+# 🟣 STATUS: IN PROGRESS
