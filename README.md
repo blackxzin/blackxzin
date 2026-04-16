@@ -34,25 +34,44 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 🌐 Web & Tools
+### 🌐 Web Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-7c3aed?style=for-the-badge&logo=database&logoColor=white" />
+</p>
+
+### 🛠️ Development Tools
+
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=bb00ff" />
+</p>
+
+### 🧠 Core Competencies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Lógica_de_Programação-34d399?style=for-the-badge&logo=logic&logoColor=black" />
+  <img src="https://img.shields.io/badge/Desenvolvimento_Web-a78bfa?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-336791?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 📊 Skill Matrix
 
 ```
-▓▓▓▓▓▓▓▓░░ Java ........ 75%
-▓▓▓▓▓▓▓░░░ C ........... 65%
-▓▓▓▓▓▓▓░░░ Python ...... 70%
-▓▓▓▓▓▓░░░░ HTML/CSS .... 50%
-▓▓▓▓▓░░░░░ JavaScript .. 45%
+▓▓▓▓▓▓▓▓░░ Java .............. 75%
+▓▓▓▓▓▓▓░░░ Python ............ 70%
+▓▓▓▓▓▓▓░░░ JavaScript ........ 65%
+▓▓▓▓▓▓░░░░ TypeScript ........ 55%
+▓▓▓▓▓▓░░░░ C ................. 60%
+▓▓▓▓▓▓░░░░ HTML5/CSS3 ........ 60%
+▓▓▓▓▓░░░░░ SQL ............... 50%
+▓▓▓▓▓░░░░░ Git/GitHub ........ 50%
 ```
 
 ---
@@ -75,6 +94,22 @@
 │                                              │
 └──────────────────────────────────────────────┘
 ```
+
+---
+
+## `< TECH STACK OVERVIEW />`
+
+<div align="center">
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Backend** | Java, Python, C |
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript |
+| **Dados** | SQL, Banco de Dados |
+| **Ferramentas** | Git, GitHub |
+| **Fundamentos** | Lógica de Programação, Desenvolvimento Web |
+
+</div>
 
 ---
 
@@ -132,6 +167,16 @@ while (alive) {
     repeat();   // O ciclo nunca para
 }
 ```
+
+---
+
+## `< ABOUT ME />`
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💻 Foco em desenvolvimento **Full Stack**
+- 🚀 Sempre aprendendo e evoluindo
+- 🎯 Buscando primeira oportunidade em TI
+- 💡 Apaixonado por tecnologia e inovação
 
 ---
 
