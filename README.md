@@ -117,12 +117,6 @@
 
 ---
 
-## `< CONTRIBUTION GRID />`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/snake.svg" alt="Snake animation" />
-</p>
-
 ## `< GITHUB TELEMETRY />`
 
 <p align="left">
@@ -187,6 +181,14 @@ while (alive) {
 - 🚀 Sempre aprendendo e evoluindo
 - 🎯 Buscando primeira oportunidade em TI
 - 💡 Apaixonado por tecnologia e inovação
+
+---
+
+## `< CONTRIBUTION GRID />`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
