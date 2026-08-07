@@ -119,7 +119,9 @@
   <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/snake.svg" alt="Snake animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+</p>
 
 ## `< GITHUB TELEMETRY />`
 
