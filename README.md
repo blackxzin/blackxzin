@@ -6,8 +6,6 @@
   <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </p>
 
-<img src="https://giffiles.alphacoders.com/214/214441.gif" width="400" align="right" alt="Cyberpunk Hacker">
-
 ```bash
 > SYSTEM BOOT... ██████████ 100%
 > [OK] Neural link established
