@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117:1a0033:0d1117&height=200&animation=fadeIn&text=LucasGabriel.exe&fontColor=bb00ff&fontSize=40&reversal=false&rotation=0&desc=Full+Stack+Developer+%7C+Cyberpunk&descAlignY=65&descSize=18&descColor=00ffcc" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+</p>
+
 <img src="https://giffiles.alphacoders.com/214/214441.gif" width="400" align="right" alt="Cyberpunk Hacker">
 
 ```bash
@@ -117,10 +121,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </p>
 
 ## `< GITHUB TELEMETRY />`
