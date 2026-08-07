@@ -113,6 +113,14 @@
 
 ---
 
+## `< CONTRIBUTION GRID />`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## `< GITHUB TELEMETRY />`
 
 <p align="left">

@@ -1,0 +1,4 @@
+.claude/
+
+# Workflow checkouts (ghaction-github-pages) — keep repo clean
+dist/
