@@ -7,17 +7,7 @@
 </p>
 
 ```bash
-> SYSTEM BOOT... ██████████ 100%
-> [OK] Neural link established
-> [OK] Cyberdeck initialized
-> [OK] Accessing developer profile...
-> ════════════════════════════════════
->  ID     : Lucas Gabriel
->  CLASS  : Full Stack Developer
->  LVL    : In Progress ▓▓▓▓▓▓░░░░
->  STATUS : Always evolving...
->  MODE   : Cyberpunk Neon Activated
-> ════════════════════════════════════
+
 ```
 
 <br>
