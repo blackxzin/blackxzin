@@ -35,6 +35,12 @@ Em busca da primeira oportunidade na área de tecnologia.
 
 ---
 
+## Atividade
+
+![Snake animation](https://raw.githubusercontent.com/blackxzin/blackxzin/output/snake.svg)
+
+---
+
 ## Contato
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasgabriel4331@gmail.com)
