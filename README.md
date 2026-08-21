@@ -2,6 +2,15 @@
 
 ##
 
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento Full Stack.<br>
+Gosto de construir projetos do zero e entender o que acontece por trás de cada linha de código.<br>
+Atualmente aprofundando back-end, banco de dados e boas práticas de desenvolvimento.<br>
+Aberto a oportunidades de estágio, vagas júnior e projetos colaborativos.
+</p>
+
+##
+
 <p align="center">- 👋 Bem-vindo ao perfil do Lucas</p>
 <p align="center">- 🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
 <p align="center">- 💻 Foco em desenvolvimento Full Stack</p>
