@@ -26,13 +26,6 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackxzin&show_icons=true&hide_border=true&theme=dark&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackxzin&layout=compact&hide_border=true&theme=dark" />
-</p>
-
-##
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/snake.svg" alt="Snake animation" />
 </p>
 
