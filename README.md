@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lucas Oliveira
+# Lucas Gabriel
 
 ### Full Stack Developer · Software Engineer · Cybersecurity Enthusiast
 
@@ -8,7 +8,8 @@ Construo produtos digitais completos: da interface e experiência do usuário à
 bancos de dados, automações, testes e deploy.
 
 [![GitHub](https://img.shields.io/badge/GitHub-blackxzin-181717?style=flat&logo=github)](https://github.com/blackxzin)
-[![Email](https://img.shields.io/badge/Email-lucasoliver43322%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucasoliver43322@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Gabriel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-787b19334/)
+[![Email](https://img.shields.io/badge/Email-lucasgabriel4331%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucasgabriel4331@gmail.com)
 
 </div>
 
@@ -85,4 +86,4 @@ JUnit, pytest, WebSocket/STOMP, GitHub Actions, HTML, CSS, JavaScript e APIs de 
 Estou aberto a oportunidades, colaborações e projetos em desenvolvimento Full Stack,
 backend, automação, segurança aplicada e produtos digitais.
 
-Se você tem um problema concreto para resolver, [fale comigo por e-mail](mailto:lucasoliver43322@gmail.com).
+Se você tem um problema concreto para resolver, [fale comigo por e-mail](mailto:lucasgabriel4331@gmail.com).
