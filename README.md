@@ -58,12 +58,13 @@ JUnit, pytest, WebSocket/STOMP, GitHub Actions, HTML, CSS, JavaScript e APIs de 
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [Sentinel](https://github.com/blackxzin/projeto-java) | Plataforma de detecção de atividades suspeitas com regras, risk score, alertas e tempo real. | Java, Spring Boot, PostgreSQL, WebSocket, Docker |
-| [JobPilot AI](https://github.com/blackxzin/JOBPILOT_AI) | Copiloto de carreira com matching de vagas, ATS score, cartas e pipeline de candidaturas. | Python, FastAPI, React, Docker |
+| [Sentinel Security Platform](https://github.com/blackxzin/sentinel-security-platform) | Plataforma de detecção de atividades suspeitas com regras, risk score, alertas e tempo real. | Java, Spring Boot, PostgreSQL, WebSocket, Docker |
+| [JobPilot AI](https://github.com/blackxzin/jobpilot-ai) | Copiloto de carreira com matching de vagas, ATS score, cartas e pipeline de candidaturas. | Python, FastAPI, React, Docker |
 | [Escola Perímetro](https://github.com/blackxzin/cybersecurity-learn) | Formação prática em cibersegurança, com trilhas, laboratório e progresso local. | HTML, CSS, JavaScript |
-| [LinuxDesk](https://github.com/blackxzin/LinuxDesk) | Transformação de um dispositivo Android em monitor adicional para Linux via rede local. | Linux, Android, WebSocket, H.264 |
-| [JurisFlow Local](https://github.com/blackxzin/Trabalho) | Sistema local para organizar clientes, processos, tarefas, calendário e backups. | Python, FastAPI, SQLAlchemy, SQLite |
-| [FreelaHunter AI](https://github.com/blackxzin/ca-a-freelas-) | Plataforma segura para descobrir oportunidades e preparar propostas com rastreabilidade. | Python, Node.js, SQLite, Playwright |
+| [LinuxDesk](https://github.com/blackxzin/linuxdesk) | Transformação de um dispositivo Android em monitor adicional para Linux via rede local. | Linux, Android, WebSocket, H.264 |
+| [JurisFlow Local](https://github.com/blackxzin/jurisflow-local) | Sistema local para organizar clientes, processos, tarefas, calendário e backups. | Python, FastAPI, SQLAlchemy, SQLite |
+| [CV Analyzer API](https://github.com/blackxzin/cv-analyzer-api) | API para analisar currículos, comparar vagas e gerar recomendações de compatibilidade. | Java, Spring Boot, PostgreSQL, Docker |
+| [FreelaHunter AI](https://github.com/blackxzin/freelahunter-ai) | Plataforma segura para descobrir oportunidades e preparar propostas com rastreabilidade. | Python, Node.js, SQLite, Playwright |
 
 ## Como trabalho
 
