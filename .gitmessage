@@ -1,0 +1,10 @@
+# <type>(<scope>): <subject>
+#
+# Tipos: feat, fix, docs, style, refactor, test, chore, perf, ci, revert
+# Escopo: api, ui, db, auth, docs, infra ou o módulo alterado
+# Escreva no imperativo, sem ponto final, de preferência em até 72 caracteres.
+#
+# Corpo opcional: explique o motivo da mudança e seus impactos.
+#
+# Rodapé opcional: BREAKING CHANGE, Closes #123
+

@@ -1,0 +1,21 @@
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Ambientes locais
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+
+# Build e cache
+dist/
+build/
+coverage/
+.pytest_cache/
+__pycache__/
+
