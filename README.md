@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Banner roxo de Lucas Gabriel com uma cobrinha em estilo pixel art" width="100%">
+  <img src="./assets/banner.svg" alt="Banner roxo de Lucas Gabriel com elementos de código" width="100%">
 
   <p><strong>Desenvolvedor Full Stack · Backend · Segurança aplicada</strong></p>
   <p>Desenvolvo aplicações web, APIs e automações com foco em clareza, segurança e utilidade.</p>
