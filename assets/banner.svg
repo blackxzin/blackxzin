@@ -1,15 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-<title id="title">Lucas Gabriel — Full Stack Developer</title><desc id="desc">Banner roxo com o nome Lucas Gabriel e elementos de código.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#100824"/><stop offset=".55" stop-color="#271052"/><stop offset="1" stop-color="#4c1d95"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#c4b5fd" stroke-opacity=".09"/></pattern></defs>
-<rect width="1200" height="280" rx="22" fill="url(#bg)"/><rect width="1200" height="280" rx="22" fill="url(#grid)"/>
-<circle cx="1042" cy="52" r="92" fill="#a78bfa" opacity=".07"/><circle cx="981" cy="230" r="112" fill="#a78bfa" opacity=".08"/>
-<text x="72" y="113" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="47" font-weight="700">Lucas Gabriel</text>
-<text x="74" y="154" fill="#c4b5fd" font-family="Verdana,DejaVu Sans,sans-serif" font-size="21">Full Stack Developer  •  Backend  •  Segurança</text>
-<rect x="72" y="183" width="318" height="48" rx="12" fill="#8b5cf6"/><text x="94" y="214" fill="white" font-family="Verdana,DejaVu Sans,sans-serif" font-size="17" font-weight="700">BUILD • LEARN • IMPROVE</text>
-<rect x="790" y="58" width="318" height="174" rx="17" fill="#140a2c" stroke="#a78bfa" stroke-opacity=".48" stroke-width="2"/>
-<circle cx="818" cy="83" r="5" fill="#fb7185"/><circle cx="837" cy="83" r="5" fill="#fbbf24"/><circle cx="856" cy="83" r="5" fill="#86efac"/>
-<path d="M790 101H1108" stroke="#a78bfa" stroke-opacity=".32"/>
-<text x="817" y="144" fill="#c4b5fd" font-family="monospace" font-size="20">&gt; lucas.build()</text>
-<text x="817" y="176" fill="#f5f3ff" font-family="monospace" font-size="18">ideas → software</text>
-<text x="817" y="207" fill="#86efac" font-family="monospace" font-size="18">✓ ready to ship</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+<title id="title">Lucas — desenvolvimento Full Stack</title>
+<desc id="desc">Banner gótico roxo com arcos, lua e brilho suave no nome Lucas.</desc>
+<defs>
+  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080613"/><stop offset=".52" stop-color="#1b1032"/><stop offset="1" stop-color="#32114d"/></linearGradient>
+  <radialGradient id="moon"><stop stop-color="#efe6ff" stop-opacity=".8"/><stop offset=".34" stop-color="#c4a3ff" stop-opacity=".29"/><stop offset="1" stop-color="#9a60ec" stop-opacity="0"/></radialGradient>
+  <linearGradient id="letters" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".5" stop-color="#e9d5ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <pattern id="stars" width="138" height="103" patternUnits="userSpaceOnUse"><circle cx="23" cy="26" r="1.4" fill="#e9d5ff" opacity=".54"/><circle cx="94" cy="71" r="1" fill="#fff" opacity=".42"/></pattern>
+  <filter id="glow" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+  <style>
+    .title{animation:rise 3.2s ease-out both, shimmer 5s ease-in-out 3.2s infinite}
+    .star{animation:twinkle 4s ease-in-out infinite}
+    .star.two{animation-delay:1.4s}.star.three{animation-delay:2.7s}
+    .halo{animation:breathe 7s ease-in-out infinite;transform-origin:1170px 180px}
+    @keyframes rise{from{opacity:0;transform:translateY(13px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes shimmer{0%,100%{opacity:1}50%{opacity:.85}}
+    @keyframes twinkle{0%,100%{opacity:.28}50%{opacity:1}}
+    @keyframes breathe{0%,100%{opacity:.7;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
+    @media (prefers-reduced-motion:reduce){.title,.star,.halo{animation:none}}
+  </style>
+</defs>
+<rect width="1500" height="500" fill="url(#night)"/><rect width="1500" height="500" fill="url(#stars)"/>
+<rect x="25" y="24" width="1450" height="452" rx="16" fill="none" stroke="#b997ec" stroke-opacity=".36" stroke-width="2"/>
+<rect x="39" y="38" width="1422" height="424" rx="10" fill="none" stroke="#b997ec" stroke-opacity=".16"/>
+<circle class="halo" cx="1170" cy="180" r="175" fill="url(#moon)"/><circle cx="1170" cy="180" r="58" fill="#e9d5ff" opacity=".8"/><circle cx="1190" cy="163" r="58" fill="#241039"/>
+<g stroke="#ae83d9" stroke-opacity=".22" stroke-width="3" fill="none">
+<path d="M1010 427V196Q1078 71 1146 196V427"/><path d="M1151 427V196Q1219 71 1287 196V427"/><path d="M1292 427V196Q1360 71 1428 196V427"/>
+<path d="M1010 326H1428M1078 102V427M1219 102V427M1360 102V427"/>
+</g>
+<path d="M0 427H1500" stroke="#c4a3ff" stroke-opacity=".42" stroke-width="2"/>
+<path d="M85 84H520M980 84H1415M85 416H520M980 416H1415" stroke="#c4a3ff" stroke-opacity=".32" stroke-width="2"/>
+<path d="M750 66l8 18 18 8-18 8-8 18-8-18-18-8 18-8z" fill="#d8b4fe" opacity=".58"/>
+<circle class="star" cx="357" cy="140" r="3" fill="#f3e8ff"/><circle class="star two" cx="940" cy="129" r="2.8" fill="#f3e8ff"/><circle class="star three" cx="1326" cy="292" r="2.5" fill="#f3e8ff"/>
+<text x="750" y="277" text-anchor="middle" fill="#bd87ff" opacity=".34" filter="url(#glow)" font-family="Georgia,serif" font-size="126" letter-spacing="19">LUCAS</text>
+<text class="title" x="750" y="277" text-anchor="middle" fill="url(#letters)" font-family="Georgia,Times New Roman,serif" font-size="126" letter-spacing="19">LUCAS</text>
+<text x="750" y="330" text-anchor="middle" fill="#d6c1ed" font-family="Georgia,serif" font-size="23" letter-spacing="8">GABRIEL · FULL STACK DEVELOPER</text>
+<path d="M543 356H687M813 356H957" stroke="#c4a3ff" stroke-opacity=".65"/><path d="M750 346l9 10-9 10-9-10z" fill="#d8b4fe"/>
 </svg>
