@@ -33,6 +33,12 @@ Gosto de entender o problema antes de escolher a tecnologia, documentar o que co
 | [CV Analyzer API](https://github.com/blackxzin/cv-analyzer-api) | Analisa currículos e compara perfis com requisitos de vagas. | Java, Spring Boot, PostgreSQL |
 | [FreelaHunter AI](https://github.com/blackxzin/freelahunter-ai) | Ajuda a encontrar oportunidades freelancer e a preparar propostas rastreáveis. | Python, Node.js, SQLite |
 
+## Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/blackxzin/blackxzin/output/snake.svg" alt="Cobrinha verde animada percorrendo o gráfico de contribuições de Lucas Gabriel" width="100%">
+</div>
+
 ## Contato
 
 Estou aberto a oportunidades em desenvolvimento Full Stack e backend, colaborações técnicas e projetos de automação ou segurança aplicada. Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/lucas-gabriel-787b19334/) ou por [e-mail](mailto:lucasgabriel4331@gmail.com).
