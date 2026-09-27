@@ -27,7 +27,7 @@
 ### Ferramentas e sistemas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,github,vscode&perline=4" alt="Linux, Arch Linux, GitHub e VS Code">
+  <img src="https://skillicons.dev/icons?i=linux,arch,kali,github,vscode&perline=5" alt="Linux, Arch Linux, Kali Linux, GitHub e VS Code">
 </div>
 
 ### Projetos em destaque
