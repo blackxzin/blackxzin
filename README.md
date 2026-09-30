@@ -38,7 +38,6 @@
 | [JobPilot AI](https://github.com/blackxzin/jobpilot-ai) | Ferramentas para analisar vagas, currículos e candidaturas. |
 | [Escola Perímetro](https://github.com/blackxzin/cybersecurity-learn) | Trilhas e exercícios práticos de cibersegurança. |
 | [LinuxDesk](https://github.com/blackxzin/linuxdesk) | Dispositivo Android como tela adicional para Linux. |
-| [JurisFlow Local](https://github.com/blackxzin/jurisflow-local) | Organização de clientes, processos, tarefas e prazos. |
 | [CV Analyzer API](https://github.com/blackxzin/cv-analyzer-api) | API para análise de currículos e comparação com vagas. |
 | [FreelaHunter AI](https://github.com/blackxzin/freelahunter-ai) | Descoberta de oportunidades freelancer e preparação de propostas. |
 
